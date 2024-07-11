@@ -37,6 +37,7 @@ First, Creating a GitHub App for your organization or account. Please follow the
 1. Installation
 	1. Select `Only on this Account`
 	![Installation](https://github.com/Nicconike/Protected-Auto-Commits/blob/master/assets/Installation.png)
+
 	2. Install the app to the repository where you need to push commits to a protected branch
 
 2. Environment Variables
@@ -76,9 +77,10 @@ First, Creating a GitHub App for your organization or account. Please follow the
 
 #### Examples
 
-Here are few real time examples which I use it for my own repositories
+Here are few real time examples which I use for my own repositories
 
 1. [Steam Stats](https://github.com/Nicconike/Steam-Stats)
+
 	Workflow file - [release.yml](https://github.com/Nicconike/Steam-Stats/blob/master/.github/workflows/release.yml#L25)
 	```yml
 	steps:
@@ -122,6 +124,7 @@ Here are few real time examples which I use it for my own repositories
 	```
 
 2. [Steam Stats](https://github.com/Nicconike/Steam-Stats)
+
 	Workflow file - [codeql.yml](https://github.com/Nicconike/Steam-Stats/blob/master/.github/workflows/codeql.yml#L53)
 	```yml
 	steps:
@@ -187,6 +190,7 @@ Here are few real time examples which I use it for my own repositories
 	```
 
 3. [Goautomate](https://github.com/Nicconike/goautomate)
+
 	Workflow file - [release.yml](https://github.com/Nicconike/goautomate/blob/master/.github/workflows/release.yml#L17)
 	```yml
 	steps:
