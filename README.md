@@ -36,6 +36,7 @@ First, Creating a GitHub App for your organization or account. Please follow the
 
 1. Installation
 	1. Select `Only on this Account`
+
 	![Installation](https://github.com/Nicconike/Protected-Auto-Commits/blob/master/assets/Installation.png)
 
 	2. Install the app to the repository where you need to push commits to a protected branch
