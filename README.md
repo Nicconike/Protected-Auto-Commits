@@ -227,5 +227,7 @@ Here are few real time examples which I use for my own repositories
 	1. [Goautomate](https://github.com/Nicconike/goautomate/releases)
 	2. [Steam-Stats](https://github.com/Nicconike/Steam-Stats/releases)
 
+5. Automated Github Commits in master (protected branch) Example
+    1. [Steam-Stats](https://github.com/Nicconike/Steam-Stats/commit/7b0cabd7e5753e98633e098fe5d17c4ec3255c2e)
 
 ## Thanks for Reading!
