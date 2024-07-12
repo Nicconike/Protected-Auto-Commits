@@ -228,6 +228,6 @@ Here are few real time examples which I use for my own repositories
 	2. [Steam-Stats](https://github.com/Nicconike/Steam-Stats/releases)
 
 5. Automated Github Commits in master (protected branch) Example
-    1. [Steam-Stats](https://github.com/Nicconike/Steam-Stats/commit/7b0cabd7e5753e98633e098fe5d17c4ec3255c2e)
+    1. [Steam-Stats](https://github.com/Nicconike/Steam-Stats/commits/master/?author=protected-auto-commits%5Bbot%5D)
 
 ## Thanks for Reading!
