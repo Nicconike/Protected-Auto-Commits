@@ -1,4 +1,6 @@
 # Protected-Auto-Commits
+[![wakatime](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed/project/4cff8c09-5663-4680-b6f2-0c3d40fab4ea.svg)](https://wakatime.com/badge/user/018e538b-3f55-4e8e-95fa-6c3225418eed/project/4cff8c09-5663-4680-b6f2-0c3d40fab4ea)
+
 If you want to automate the commits for a bot in a protected branch as well then below approach is the best possible option
 
 ## Direct Approach
